@@ -23,4 +23,4 @@ Screen recording, microphone, camera, calendars, reminders, Bluetooth, and locat
 Crest does not sell or share your data. Any third-party services listed above process data under their own privacy policies.
 
 ## Contact
-Questions about this build: **Bytesphere** — <abdurrahmanidris225@gmail.com>
+Questions about this build: **Bytesphere** — <contact@bytesphere.dev>
