@@ -1,0 +1,14 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Crest</title>
+        <item>
+            <title>2.3.3</title>
+            <pubDate>Sat, 05 Sep 2026 05:16:45 +0100</pubDate>
+            <sparkle:version>1257</sparkle:version>
+            <sparkle:shortVersionString>2.3.3</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
+            <enclosure url="https://raw.githubusercontent.com/abdur28/crest-updates/main/Crest-2.3.3.zip" length="24054931" type="application/octet-stream" sparkle:edSignature="VHqd8RKiUuVZU5K4FPv7ZUWJQzbS8Go6XLZ+Crtj+oBvMXm9MQGjkyJNkiBfLB89xRKPWLQ/UldVzL5jQDqZDw=="/>
+        </item>
+    </channel>
+</rss>
